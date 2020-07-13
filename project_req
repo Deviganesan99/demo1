@@ -1,0 +1,19 @@
+project-requirments:
+(in main page description about our service)
+1)volunteers:
+->registration form
+->login id
+->location allotment
+->delivery update
+2)admin
+->lists of volunteers details maintain
+->allotment of valenteers
+->monitoring
+->update details
+3)Isolated patiends:
+->registration form
+->updates the orders
+4)stores regitrations:
+->stores registration forms
+->hotels,departmental stores
+->lists of items availables
